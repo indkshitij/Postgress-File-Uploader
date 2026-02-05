@@ -151,16 +151,5 @@ jupyter notebook uploader.ipynb
 OR convert to script later for cron / automation.
 
 ---
-
-## 🔮 Future Enhancements
-
-* ✅ Schema validation
-* ⏱ Incremental loading
-* 🔁 Duplicate detection
-* ☁️ Cloud storage (S3 / GCS)
-* 🐳 Docker support
-* 📈 Data quality checks
-
----
 Built by Kshitij Singh
 
