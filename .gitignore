@@ -39,8 +39,3 @@ utils/db_config.py
 .vscode/
 .idea/
 
-# =========================
-# Data folder (track folder, ignore files)
-# =========================
-data/*
-!data/.gitkeep
