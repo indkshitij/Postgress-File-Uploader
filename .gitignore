@@ -1,0 +1,49 @@
+# =========================
+# Python
+# =========================
+__pycache__
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+utils/__pycache__
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.env/
+.venv/
+env/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+
+
+# =========================
+# Local config / secrets
+# =========================
+utils/db_config.py
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+.vscode/
+.idea/
+
+# =========================
+# Data files (optional)
+# =========================
+
+data/*.csv
+data/*.json
+*.json
+*.csv
