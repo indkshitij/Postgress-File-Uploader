@@ -1,14 +1,13 @@
 # =========================
 # Python
 # =========================
-__pycache__
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 *.egg-info/
 .eggs/
-utils/__pycache__
+
 # =========================
 # Virtual Environments
 # =========================
@@ -25,7 +24,8 @@ env/
 # =========================
 # Logs
 # =========================
-
+logs/
+*.log
 
 # =========================
 # Local config / secrets
@@ -40,10 +40,7 @@ utils/db_config.py
 .idea/
 
 # =========================
-# Data files (optional)
+# Data folder (track folder, ignore files)
 # =========================
-
-data/*.csv
-data/*.json
-*.json
-*.csv
+data/*
+!data/.gitkeep
