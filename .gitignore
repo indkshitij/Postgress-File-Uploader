@@ -28,11 +28,6 @@ logs/
 *.log
 
 # =========================
-# Local config / secrets
-# =========================
-utils/db_config.py
-
-# =========================
 # OS / Editor files
 # =========================
 .DS_Store
